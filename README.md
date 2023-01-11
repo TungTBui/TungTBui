@@ -1,4 +1,4 @@
-Hi, I'm a wannabe Data Scientist from Vietnam. 
+Hi, I'm a Data Scientist from Vietnam.
 
 <!---
 TungTBui/TungTBui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
